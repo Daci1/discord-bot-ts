@@ -1,5 +1,5 @@
-import {MusicCommandsMap} from "./music";
+import { MusicCommandsMap } from './music';
 
 export const CommandsMap = {
-    ...MusicCommandsMap
+  ...MusicCommandsMap,
 } as const;
