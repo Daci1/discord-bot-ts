@@ -1,6 +1,6 @@
-# Discord Music Bot with JDA and Spring Boot
+# Discord Music Bot with discord-js
 
-This is a Discord Music Bot written with JDA (Java Discord API) and Spring Boot 3. It supports various music commands to
+This is a Discord Music Bot written with discord-js. It supports various music commands to
 play and manage songs in a voice channel.
 
 ## Commands
